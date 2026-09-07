@@ -1,7 +1,5 @@
 # BioSeq API · Backend de Bioinformática
 
-Proyecto **5 del portafolio backend** para **Practicante Backend — TEINOR S.A.C.**
-
 API REST en **FastAPI** que procesa secuencias biológicas (ADN, ARN y
 proteínas) resolviendo problemas reales de un laboratorio de
 biotecnología con **algoritmos implementados en Python puro** — sin
@@ -111,5 +109,5 @@ curl -s http://localhost:8000/analyze/align \
 ```
 
 ## Autor
-Proyecto del portafolio de **Practicante Backend TEINOR S.A.C.** —
+Proyecto educativo como parte del portafolio personal de **Favio Ordoñez Giribaldi**.
 [GitHub: Biotechfav](https://github.com/Biotechfav)

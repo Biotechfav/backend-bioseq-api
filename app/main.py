@@ -1,8 +1,7 @@
 """BioSeq API — herramientas de bioinformática.
 
-Bootstrapping de FastAPI: documentación configura para que Swagger sea
-limpio y con ejemplos (excusa buena: la empresa TEINOR valora la
-documentación técnica).
+Bootstrapping de FastAPI: documentación configurada para que Swagger sea
+limpio y con ejemplos.
 """
 
 from fastapi import FastAPI
@@ -14,8 +13,6 @@ DESCRIPTION = """
 **BioSeq API** — plataforma backend de *bioinformática* que procesa
 secuencias de ADN, ARN y proteínas con algoritmos implementados en
 Python puro (sin librerías externas de biología).
-
-> Proyecto 5 del portafolio para **Practicante Backend – TEINOR S.A.C.**
 
 ### Herramientas disponibles
 - 🧬 **Composición**: conteo de bases, %GC, temperatura de melting y
